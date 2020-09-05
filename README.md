@@ -16,4 +16,4 @@ In this project, hierarchical classification, which a classification method to f
 
 ## Results
 
-The results of the classification task are shown and compared in the jupyter notebook.
+The results of the classification task are shown and compared in the jupyter notebook. You can reproduce them and, the only thing you need is the dataset, which is publicly available.
