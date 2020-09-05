@@ -3,9 +3,13 @@ In this project, a hierarchical classifier for transportation type, based on tra
 
 ## How to run
 Run the following command in your terminal to install the dependencies:
+
 ```pip install -r requirements.txt```
+
 Afetr they are successfuully instaled run the following command in your terminal to open jupyter:
+
 ```jupyter notebook```
+
 After that find where you have save the notebook and open it. You can run each cell by pressing ctrl + enter.
 
 ## Features
