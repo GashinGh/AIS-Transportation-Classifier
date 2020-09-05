@@ -1,6 +1,13 @@
 # Trajectory-Transportation-Classifier
 In this project, a hierarchical classifier for transportation type, based on trajectory data, has been developed. 
 
+## How to run
+Run the following command in your terminal to install the dependencies:
+'''pip install -r requirements.txt'''
+Afetr they are successfuully instaled run the following command in your terminal to open jupyter:
+'''jupyter notebook'''
+After that find where you have save the notebook and open it. You can run each cell by pressing ctrl + enter.
+
 ## Features
 Trajectory data is a point-based data that needs to be processed to extract the required features for the classifier. The Features that are used are distance, speed, acceleration, and bearing. 
 
